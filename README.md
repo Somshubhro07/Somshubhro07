@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on a E-commerce website framework<br>👯 I’m looking to collaborate on any topic related to backend python framworks<br>🤝 I’m looking for help with SQL<br>🌱 I’m currently learning coding and lot more<br>💬 Ask me about codes and financial things<br>⚡ Fun fact - I am lefty
+🔭 I’m currently working on a E-commerce website framework<br>👯 I’m looking to collaborate on any topic related to backend python framworks<br>🌱 I’m currently learning coding and lot more<br>💬 Ask me about codes and financial things<br>⚡ Fun fact - I am lefty
 
 
 ## 🌐 Socials:
